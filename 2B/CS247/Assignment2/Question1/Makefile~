@@ -1,0 +1,23 @@
+GTEST_DIR=~/coding/gtest
+GTEST_FLAGS=-isystem $(GTEST_DIR)/include -pthread
+GTEST_LIBS=$(GTEST_DIR)/lib/*
+
+
+.SUFFIXES: 
+.SUFFIXES: .o .cpp .h
+
+.cpp.o:
+	${CXX} -g -c $<
+
+
+all: a2q1
+
+a2q1: Date.o DateTestHarness.cpp
+	${CXX} -g Date.o DateTestHarness.cpp -o a2q1
+
+
+clean:
+	rm -rf *.dSYM
+	rm -rf *.zip
+	rm -rf *.o
+	rm -rf a2q1 a2q1_test

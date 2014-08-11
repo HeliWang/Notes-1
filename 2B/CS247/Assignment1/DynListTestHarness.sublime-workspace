@@ -1,0 +1,765 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curr",
+				"currR"
+			],
+			[
+				"get",
+				"getNext"
+			],
+			[
+				"currt",
+				"currThis"
+			],
+			[
+				"copy",
+				"copyAllNodes"
+			],
+			[
+				"delete",
+				"deleteAllNodes"
+			],
+			[
+				"cur",
+				"currD"
+			],
+			[
+				"Dyn",
+				"DynNode"
+			],
+			[
+				"D",
+				"DynList"
+			],
+			[
+				"Cheap",
+				"CheapAccount"
+			],
+			[
+				"bale",
+				"balance_"
+			],
+			[
+				"accou",
+				"accountNumber"
+			],
+			[
+				"Ex",
+				"ExpensiveAcount"
+			],
+			[
+				"Account",
+				"AccountNo"
+			],
+			[
+				"wr",
+				"word2"
+			],
+			[
+				"joe",
+				"JoesPrefs"
+			],
+			[
+				"nu",
+				"numerArg"
+			],
+			[
+				"sp",
+				"splitAt"
+			],
+			[
+				"it",
+				"Int"
+			],
+			[
+				"File",
+				"FileMatcher"
+			],
+			[
+				"make",
+				"makeIncreaser"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"a",
+				"Any"
+			],
+			[
+				"getType",
+				"getTypeExpr"
+			],
+			[
+				"getT",
+				"getTypeExpr"
+			],
+			[
+				"getName",
+				"getNameLValue"
+			],
+			[
+				"getNam",
+				"getNameFactor"
+			],
+			[
+				"if",
+				"ifCount"
+			],
+			[
+				"printS",
+				"printStatements"
+			],
+			[
+				"while",
+				"whileCount"
+			],
+			[
+				"printT",
+				"printTest"
+			],
+			[
+				"prin",
+				"printExpr"
+			],
+			[
+				"offe",
+				"offset"
+			],
+			[
+				"printD",
+				"printDCLS"
+			],
+			[
+				"check",
+				"checkStatements"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"checkD",
+				"checkDCLS"
+			],
+			[
+				"checkState",
+				"checkStatements"
+			],
+			[
+				"parse",
+				"parseTree"
+			],
+			[
+				"add",
+				"addSymbol"
+			],
+			[
+				"to",
+				"toState"
+			],
+			[
+				"next",
+				"nextLine"
+			],
+			[
+				"Ne",
+				"nextLine"
+			],
+			[
+				"nex",
+				"nextLine"
+			],
+			[
+				"ne",
+				"nextLine"
+			],
+			[
+				"AR",
+				"args"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"pei",
+				"pieces"
+			],
+			[
+				"sub",
+				"subList"
+			],
+			[
+				"Array",
+				"ArrayList"
+			],
+			[
+				"peices",
+				"pieces"
+			],
+			[
+				"hasNex",
+				"hasNextLine"
+			],
+			[
+				"WH",
+				"WHITESPACE"
+			],
+			[
+				"chars",
+				"Chars"
+			],
+			[
+				"PRIN",
+				"PRIN"
+			],
+			[
+				"ler",
+				"lettersDigits"
+			],
+			[
+				"lett",
+				"lettersDigits"
+			],
+			[
+				"Del",
+				"DELETE"
+			],
+			[
+				"WA",
+				"WAIN"
+			],
+			[
+				"Pri",
+				"PRINTLN"
+			],
+			[
+				"Whil",
+				"WHILE"
+			],
+			[
+				"E",
+				"ELSE"
+			],
+			[
+				"Ret",
+				"RETURN"
+			],
+			[
+				"STAR",
+				"STAR"
+			],
+			[
+				"RBR",
+				"RBRACE"
+			],
+			[
+				"RBRA",
+				"RBRACK"
+			],
+			[
+				"s",
+				"allStates"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"latextools",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"latext",
+				"LaTeXing: Lookup TeX Symbol"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"LaTeXing: Changelog"
+			],
+			[
+				"sslate",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 202.0,
+		"history":
+		[
+			"https://github.com/jisaacks/DeepBlueSee",
+			"$ npm install -g aroma",
+			"npm install -g aroma",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lara/2B/CS247/Assginment1/AccountTestHarness.cpp",
+		"/home/lara/2B/CS247/Assginment1/Makefile",
+		"/home/lara/2B/CS247/Assginment1/ADT.txt",
+		"/home/lara/2B/CS247/Lecture4/Rational_PImpl_Immutable.cpp",
+		"/home/lara/2B/CS247/Assginment1/DynListTestHarness.cpp",
+		"/home/lara/2B/CS247/Assginment1/DynListTestHarness",
+		"/home/lara/TODO.txt",
+		"/home/lara/2B/CS247/Tutorial/Resources2/conversion.cpp",
+		"/home/lara/2B/CS247/Tutorial/Resources2/constRef.cpp",
+		"/home/lara/2B/CS247/Tutorial/Resources2/initList.cpp",
+		"/home/lara/2B/CS247/Assginment1/Accounts",
+		"/home/lara/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/home/lara/temp/Notes to Kyle.txt",
+		"/home/lara/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/lara/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/usr/share/mibs/iana/IANA-IPPM-METRICS-REGISTRY-MIB",
+		"/var/lib/mibs/ietf/SNMPv2-MIB",
+		"/var/lib/mibs/ietf/IPATM-IPMC-MIB",
+		"/var/lib/mibs/iana/IANA-IPPM-METRICS-REGISTRY-MIB",
+		"/home/lara/temp/temp.tex",
+		"/home/lara/2A/WorkTerm Report/wkrpt/wkrpt.tex",
+		"/home/lara/temp.tex",
+		"/home/lara/WhiteBox/Box8.scala",
+		"/home/lara/WhiteBox/box7.rkt",
+		"/home/lara/WhiteBox/box6.hs",
+		"/home/lara/WhiteBox/Box5.java",
+		"/home/lara/WhiteBox/box4.rb",
+		"/home/lara/WhiteBox/box3.sh",
+		"/home/lara/WhiteBox/box2.cpp",
+		"/home/lara/WhiteBox/box1.py",
+		"/home/lara/.bash_aliases",
+		"/home/lara/WhiteBox/box5.java",
+		"/home/lara/WhiteBox/Box8.class",
+		"/home/lara/WhiteBox/box8.scala",
+		"/etc/apt/sources.list",
+		"/usr/share/snmp/snmpd.conf",
+		"/etc/snmp/snmp.conf",
+		"/etc/snmp/snmpd.conf",
+		"/home/lara/2A/WorkTerm Report/wkrpt/README.md",
+		"/etc/default/grub",
+		"/et/default/grub",
+		"/media/lara/HP USB Dock/HPPortReplicator(USB2.0)_0.2.5.exe",
+		"/home/lara/projects/sample_app/app/views/static_pages/help.html.erb",
+		"/home/lara/projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/lara/To Learn.txt",
+		"/home/lara/projects/sample_app/app/views/static_pages/home.html.erb",
+		"/home/lara/projects/sample_app/spec/spec_helper.rb",
+		"/home/lara/projects/sample_app/README.rdoc",
+		"/home/lara/projects/demo_app/app/models/user.rb",
+		"/home/lara/projects/demo_app/config/routes.rb",
+		"/home/lara/projects/demo_app/app/controllers/microposts_controller.rb",
+		"/home/lara/projects/demo_app/app/models/micropost.rb",
+		"/home/lara/projects/demo_app/app/views/users/index.html.erb",
+		"/home/lara/projects/demo_app/app/controllers/users_controller.rb",
+		"/home/lara/projects/temp_app/Gemfile",
+		"/home/lara/projects/demo_app/Gemfile",
+		"/home/lara/projects/Gemfile",
+		"/home/lara/RubyTutorial/first_app/Gemfile",
+		"/home/lara/projects/temp_app/README.md",
+		"/home/lara/ScalaTutorial/Implicit Conversions and Parameters.txt",
+		"/home/lara/ScalaTutorial/Currency.scala",
+		"/home/lara/ScalaTutorial/Type Parametization.txt",
+		"/home/lara/ScalaTutorial/Packages and Imports.txt",
+		"/home/lara/ScalaTutorial/Queue.scala",
+		"/home/lara/ScalaTutorial/function literals.txt",
+		"/home/lara/ScalaTutorial/Seasons.scala",
+		"/home/lara/ScalaTutorial/Element.scala",
+		"/home/lara/ScalaTutorial/rational.scala",
+		"/home/lara/ScalaTutorial/Calculator.scala",
+		"/home/lara/ScalaTutorial/CheckSum.scala",
+		"/home/lara/ScalaTutorial/ComplexNumber.scala",
+		"/home/lara/ScalaTutorial/Timer.scala",
+		"/home/lara/ScalaTutorial/Abstract Members.txt",
+		"/home/lara/ScalaTutorial/Stateful Objects.txt",
+		"/home/lara/ScalaTutorial/Simulation.scala",
+		"/home/lara/ScalaTutorial/BasicCircuitSimulation.scala",
+		"/home/lara/ScalaTutorial/CircuitSimulation.scala",
+		"/home/lara/ScalaTutorial/ExprFormatter.scala",
+		"/home/lara/ScalaTutorial/Collections.txt",
+		"/home/lara/ScalaTutorial/Lists.txt",
+		"/home/lara/ScalaTutorial/Case Classes and Pattern Maching.txt",
+		"/home/lara/ScalaTutorial/Assertions and Unit Testing.txt",
+		"/home/lara/ScalaTutorial/Traits.txt",
+		"/home/lara/ScalaTutorial/Traits.scala",
+		"/home/lara/ScalaTutorial/TimerAnonymous.scala",
+		"/home/lara/ScalaTutorial/Genericity.scala",
+		"/home/lara/ScalaTutorial/FrenchDate.scala",
+		"/home/lara/ScalaTutorial/CheckSumAccumulator.scala",
+		"/home/lara/ScalaTutorial/Scala's Hierarchy.txt",
+		"/home/lara/ScalaTutorial/Composition and Inheritance.txt",
+		"/home/lara/ScalaTutorial/Spiral.scala",
+		"/home/lara/ScalaTutorial/Control Abstraction.scala",
+		"/home/lara/ScalaTutorial/function literals.scala",
+		"/home/lara/Msc/monitor sale.txt",
+		"/home/lara/ScalaTutorial/naming conventions.txt",
+		"/home/lara/ScalaTutorial/Scala type stuff.txt",
+		"/home/lara/ScalaTutorial/Summer.scala",
+		"/lib/init/upstart-job",
+		"/etc/rc.local",
+		"/home/lara/.bash_logout",
+		"/home/lara/.bash_profile",
+		"/home/lara/.bash_history",
+		"/home/lara/BashTemp/test.sh",
+		"/home/lara/BashTemp/testBash.sh",
+		"/home/lara/ScalaTutorial/helloarg.scala",
+		"/home/lara/ScalaTutorial/hello.scala",
+		"/home/lara/ScalaTutorial/FrenchDate$.class",
+		"/home/lara/ScalaTutorial/FrenchDate.class",
+		"/opt/sublime_text/changelog.txt",
+		"/home/lara/Dropbox/DaSTRUCT (1)/Simulation Thingy.R",
+		"/home/lara/2A/CS241/test.wlpp",
+		"/home/lara/2A/CS241/gen.out",
+		"/home/lara/2A/CS241/A9/A9.java",
+		"/home/lara/2A/CS241/test",
+		"/home/lara/2A/CS241/WLPPParse.java",
+		"/home/lara/2A/CS241/WLPPScan.java",
+		"/home/lara/2A/SE212/a08q03.grg",
+		"/home/lara/2A/CS241/WLPPGen.java",
+		"/home/lara/2A/SE212/a0803.grg",
+		"/home/lara/2A/SE212/a0802.grg",
+		"/home/lara/2A/SE212/a0801.grg",
+		"/home/lara/2A/SE212/a08.grg",
+		"/home/lara/Downloads/Simulation Examples.R",
+		"/home/lara/Downloads/cdf_plot.R",
+		"/home/lara/Downloads/birthday_problem.R",
+		"/home/lara/Downloads/describing_data.R",
+		"/home/lara/Downloads/Black_Jack.R",
+		"/home/lara/2A/CS241/A9/WLPPGen.java"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&);\n",
+			"int",
+			"iterat",
+			"iterate",
+			"getValue",
+			"deleteAllNodes",
+			"();\n",
+			"DynList",
+			"\n    ",
+			"    DynList::Node* curr = this.list_;\n",
+			"list_",
+			"plc",
+			"balance_",
+			"accountNumber_",
+			"// // ",
+			"print",
+			"<sp>",
+			"findAccount",
+			"{} ",
+			"acount",
+			"\n	",
+			"Account",
+			"cheap",
+			"      ",
+			"spell",
+			"INTEGEr",
+			"}",
+			"\")",
+			"oneed4anick/cuttlefish",
+			"scala>",
+			"put",
+			"\\^",
+			"41",
+			"getNameExpr",
+			"gettype",
+			"gettypedcl",
+			"getTypeExpr(t.children.get(0))",
+			"getTypeExpr(t.children.get(0)).",
+			"getTypeExpr(t.children.get(0))",
+			"getType",
+			"statetype",
+			"statedCL",
+			"printTest",
+			"offset",
+			"amp",
+			"\\$8",
+			"addSymbol",
+			"symbols",
+			"VC",
+			"(common)",
+			"Implied",
+			"by",
+			"VC",
+			"eq",
+			"equals_e",
+			"by",
+			"k",
+			"==>",
+			"t + t @ A",
+			"t",
+			"\\^",
+			"^",
+			"$1",
+			"add",
+			"printDCL",
+			");\n",
+			"subs",
+			"put",
+			"push",
+			";",
+			"\\;",
+			"WLPPGen",
+			"println",
+			"something",
+			"something broke",
+			"println",
+			"HERE",
+			"checkTree",
+			"\"));",
+			"println",
+			"private",
+			"start",
+			"transitions",
+			"rules",
+			"nonterminals",
+			"terminals",
+			"start",
+			"rules",
+			"System",
+			"system",
+			"tostate",
+			"print.add",
+			"err",
+			"_",
+			"next",
+			"{",
+			"transfer",
+			"id",
+			"int",
+			"size()",
+			"peices",
+			"a8p4",
+			"sub16p3p3",
+			"sub16p3p5",
+			"a8p3",
+			"a8p2p2",
+			"a8p2",
+			"a8p2p1",
+			"a8p2",
+			"a8p1",
+			"q16",
+			"q9p1",
+			"a2p1",
+			"a5local",
+			"a7local",
+			"a7p2",
+			"a5p1",
+			"a7p1",
+			"with(J,y",
+			"with(Y,y",
+			"and",
+			" . with(x,y) & brings",
+			" . with ( x , y ) & brings",
+			":Item",
+			":Color",
+			":Person",
+			" :",
+			"^"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"",
+			"&",
+			"\\$28",
+			"&",
+			"sub",
+			"; \\n",
+			"\\; \\n",
+			"WLPPGenTesting",
+			"public",
+			"table",
+			"prods",
+			"nonterms",
+			"terms",
+			"prods",
+			"toState",
+			"out",
+			" ",
+			"ID",
+			"INT",
+			"length",
+			",",
+			"pieces",
+			",",
+			"",
+			",",
+			".",
+			"&",
+			"Kind.ID",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "DynListTestHarness.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 222.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 122.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
